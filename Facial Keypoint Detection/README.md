@@ -6,7 +6,7 @@ In this project, through combining knowledge of computer vision techniques and d
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Instructions
-The project will be broken up into a few main parts in four Python notebooks, only Notebooks 2 and 3 (and the models.py file) will be graded:
+The project will be broken up into a few main parts :
 
 - Notebook 1 (Load and Visualize Data) : Loading and Visualizing the Facial Keypoint Data
 
